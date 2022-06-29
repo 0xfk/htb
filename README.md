@@ -1,1 +1,1 @@
-# htb
+# Hack The Box Supporting Scripts
